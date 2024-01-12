@@ -1,6 +1,5 @@
 # Projeto Alura -Site Responsivo com HTML, CSS e Flexbox
 
-
 ## Descrição do Projeto
 
 Este é um projeto desenvolvido durante o curso de Front-end da Alura, focado em HTML, CSS, Flexbox e responsividade. O objetivo principal é criar um site moderno e adaptável para diferentes dispositivos, 
@@ -26,13 +25,8 @@ Estilização Atraente: Utilização de técnicas avançadas de CSS para criar u
 Flexbox para Layouts Eficientes: O modelo de layout Flexbox foi aplicado para facilitar o posicionamento e o alinhamento dos elementos na página, tornando o desenvolvimento mais eficiente.
 
 
-##Contribuições
+## Contribuições
 
 Contribuições são bem-vindas! 
-
-Se você encontrar problemas ou melhorias potenciais, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
-
-
 
 
